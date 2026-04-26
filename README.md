@@ -299,9 +299,9 @@ This project demonstrates expertise in:
 
 ## 👥 Authors
 
-**Moez CHAGRAOUI** 
-**Rayen YADIR** 
-**Yassine ABDELILLAH** 
+**Moez CHAGRAOUI** /
+**Rayen YADIR** /
+**Yassine ABDELILLAH** /
 **Drissa SAGNON** 
 
 *INP-ENSEEIHT - Collaborative Engineering Project (BEI) with EasyMile*
