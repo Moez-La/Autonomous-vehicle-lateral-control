@@ -58,14 +58,6 @@ requirements.txt                # Lists all the Python dependencies required for
 
 ## 📹 Simulation Demo
 
-<video src="Simulation.webm" controls width="100%">
-  Your browser does not support the video tag.
-</video>
-
-*Demonstration of lateral control algorithms and ECU failure safety mechanism*
-
-## 📹 Simulation Demo
-
 ![Autonomous Vehicle Simulation](Simulation.gif)
 
-*Real-time demonstration of lateral control algorithms (Proportional & Pure Pursuit) and ECU failure safety mechanism with gradual deceleration and safe parking trajectory*
+*Real-time demonstration of lateral control algorithms, manual keyboard control mode, and ECU failure safety mechanism with gradual deceleration and safe parking trajectory*
