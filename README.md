@@ -55,3 +55,11 @@ trajectory/
 main_IHM.py                     # The entry point of the simulator. Launches the application.
 
 requirements.txt                # Lists all the Python dependencies required for the project.
+
+## 📹 Simulation Demo
+
+<video src="Simulation.webm" controls width="100%">
+  Your browser does not support the video tag.
+</video>
+
+*Demonstration of lateral control algorithms and ECU failure safety mechanism*
