@@ -103,14 +103,6 @@ python3 -m pytest Lateral_control/test_pure_pursuit.py -v
 
 ---
 
-## 📹 Simulation Demo
-
-![Autonomous Vehicle Simulation](Simulation.gif)
-
-*Real-time demonstration of lateral control algorithms (Proportional & Pure Pursuit), manual keyboard control mode, and ECU failure safety mechanism with gradual deceleration and safe parking trajectory*
-
----
-
 ## 🧠 Lateral Control Algorithms
 
 ### 1. Proportional Control
