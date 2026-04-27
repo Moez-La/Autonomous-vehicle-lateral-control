@@ -38,35 +38,6 @@ This project addresses **functional safety** in autonomous vehicle lateral contr
 
 ---
 
-## 📦 Project Structure
-├── Autopilot/
-│   └── autopilot.py              # Main autopilot logic with safety integration
-├── IHM/
-│   └── ihm.py                    # User Interface (PyQt6)
-├── Lateral_control/
-│   ├── proportional_control.py   # Proportional controller implementation
-│   ├── pure_pursuit_control.py   # Pure Pursuit algorithm
-│   ├── test_pure_pursuit.py      # Pytest unit tests
-│   └── lateral_control_pure_pursuit_parameters.json  # Controller config
-├── Model/
-│   └── vehicle_model.py          # Vehicle dynamics model
-├── Safety_mecanism/
-│   ├── safety_mecanism.py        # ECU failure handling & safe parking
-│   └── Alarme.wav                # Audio safety alert
-├── Trajectory/
-│   └── generate_trajectory.py    # Trajectory generation
-├── Logs/
-│   └── failure_log.txt           # Failure event logging
-├── docs/
-│   ├── Rapport_final_BEI_EM_2024_25.pdf               # Complete project report
-│   ├── Analyse_PHA_HARA_Controle_Lateral.xlsx         # Risk analysis
-│   ├── Architecture_UML_fonction_secu.pptx            # UML diagrams
-│   └── UML_fonction_secu.mdj                          # StarUML model
-├── main_IHM.py                   # Application entry point
-├── requirements.txt              # Python dependencies
-├── Simulation.gif                # Demo GIF
-└── README.md
-
 # How to Use the Simulator
 
 ---
